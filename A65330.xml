@@ -1,0 +1,460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Way to heaven in a string, or, Mr. A--'s argument burlesqu'd a poem. Canto I.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65330</idno>
+            <idno type="STC">Wing W1169</idno>
+            <idno type="STC">ESTC R10590</idno>
+            <idno type="EEBO-CITATION">12149712</idno>
+            <idno type="OCLC">ocm 12149712</idno>
+            <idno type="VID">55037</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55037)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 905:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Way to heaven in a string, or, Mr. A--'s argument burlesqu'd a poem. Canto I.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Angell, Philemon.</term>
+               <term>Chivalry --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55037:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <p>THE Way to HEAVEN <hi>in a String.</hi>
+            </p>
+            <p>OR, Mr. A—'s Argument BURLESQU'D.</p>
+            <p>A POEM.</p>
+            <p>
+               <hi>CANTO</hi> I.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Baldwin,</hi> in <hi>Warwick-Lane.</hi> MDCC.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:55037:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb n="iii" facs="tcp:55037:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>To the READER.</head>
+            <p>WE have of late been entertain'd with many pretty Whimms in Divinity; but this the fineſt of them all: A Reli<g ref="char:EOLhyphen"/>gious Piece of Knight-Errantry, to which if I ſaid any thing at all, I thought it muſt be in Burleſque; for the Humour is comical enough. Pity it is this wondrous Man had not liv'd in the Infancy of Time, and taught poor Mortals this Leſſon, 'ere Death for ſo many Thouſands of Years had ravaged the habitable parts of the World, and glutted it ſelf with the Spoils of Mankind. The Scythe of Death had then a long time ago been ruſty and uſeleſs, and the Sands in the Glaſs of Time had run to no purpoſe. But we of theſe latter Ages of the World muſt have the only Advantage of his Project, who will not go out of the VVorld in the Common Road of his Neighbours; but in a manner peculiar to himſelf,
+<q>Hinc Itur ad Aſtra.</q>
+            </p>
+            <p>
+               <hi>Bootatus &amp; Spurratus ire ad Coelum;</hi> Away mounts our Friend <hi>John,</hi> and leaves this declining VVorld leſſening out of ſight.</p>
+            <p>Theſe are the firſt Lines that ever I attempted in Dogrel, and according to their reception in the VVorld perhaps may be the laſt. The Deſign will bear a great many more; and my Lines flow as the Learned Dr. <hi>Bunyan</hi> ſays of his,
+<q>
+                  <l>They came to mine own Heart, thence to my Head,</l>
+                  <l>Thence to my Fingers ends they trickeled;</l>
+                  <l>Thence to my Pen, and then immediately</l>
+                  <l>On Paper I did drible it daintily.</l>
+               </q>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:55037:3"/>
+            <!-- PDF PAGE 24 -->
+            <pb n="5" facs="tcp:55037:3"/>
+            <!-- PDF PAGE 24 -->
+            <head>Mr. A—'s ARGUMENT BURLESQU'D.</head>
+            <lg>
+               <l>THERE are ſome things are counted Real,</l>
+               <l>In which we Mortals do agree all:</l>
+               <l>Things form'd by cunning Allegories</l>
+               <l>We do account to be meer Stories.</l>
+               <l>Some write of Fights of Mice and Froggs,</l>
+               <l>And others prate of Maſtiff Dogs:</l>
+               <l>One has the <hi>Fairy Queen</hi> eſpy'd,</l>
+               <l>And told the Tale, as if he ly'd,</l>
+               <l>Of <hi>Tib</hi> and <hi>Tom,</hi> and <hi>Mib</hi> and <hi>Mab,</hi>
+               </l>
+               <l>Names ne'er attain'd by Poet <hi>Squab.</hi>
+               </l>
+               <l>But while ſuch Fools do pleaſe Mens Fancies</l>
+               <l>With idle <hi>Canto's</hi> of Romances,</l>
+               <l>I'll tell you of a greater Knight</l>
+               <l>Then e'er made Love, or mov'd in Fight.</l>
+            </lg>
+            <lg>
+               <l>He neither was a Prieſt nor Parſon,</l>
+               <l>Or Warriors Saddle laid his Arſe on;</l>
+               <l>Yet in Divinity Profound,</l>
+               <l>He could great Sophiſters confound;</l>
+               <l>Knew difference 'twixt the <hi>Jews</hi> and <hi>Turks,</hi>
+               </l>
+               <l>And had read Learned <hi>Bunyan</hi>'s Works;</l>
+               <l>Had <hi>Brooks</hi> his Golden Pippins read,</l>
+               <l>And by the wiſer Folk 'tis ſaid,</l>
+               <l>He can as learnedly diſpute</l>
+               <l>As Parſon <hi>Keith,</hi> or fam'd <hi>Giles Shute.</hi>
+               </l>
+               <l>He ſagely in his Youth foreſaw</l>
+               <l>That Truths Divine need Props of Law,</l>
+               <pb n="6" facs="tcp:55037:4"/>
+               <!-- PDF PAGE 25 -->
+               <l>To ſtudy which he did adhere,</l>
+               <l>And in't became a Bariſter:</l>
+               <l>He ſomething elſe at length became,</l>
+               <l>An Office got I muſt not name;</l>
+               <l>
+                  <hi>Ne Sutor ultra Crepidam.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He never bow'd his ſtubborn Knee</l>
+               <l>In any Feats of Chivalry,</l>
+               <l>Deſpiſing ſuch Knight-Errantry,</l>
+               <l>Where People for the very nonce</l>
+               <l>Do fracture one another's Bones;</l>
+               <l>As Bullocks fight in Marſhes fed,</l>
+               <l>To try which has the hardeſt Head.</l>
+               <l>He never lov'd the diſmal Sounds</l>
+               <l>Of murd'ring Guns, of Blood and Wounds:</l>
+               <l>He ſtill abhorr'd the frightful Sight,</l>
+               <l>The ſad effect of cruel Fight.</l>
+               <l>He never got a broken Head,</l>
+               <l>Or for a Wound had Plaiſter ſpread;</l>
+               <l>Had no miſchance in any Points,</l>
+               <l>To diſlocate his nimble Joints,</l>
+               <l>But ſuch Diſaſters as befal</l>
+               <l>In Battels Metaphyſical;</l>
+               <l>Which, tho ſecuring Head and Snout,</l>
+               <l>Do craze the Brains, not beat 'em out.</l>
+            </lg>
+            <lg>
+               <l>By a deep inſight in Religion</l>
+               <l>He found how <hi>Mahomet,</hi> and his Pigeon,</l>
+               <l>Did fly from hence to bleſt Abodes,</l>
+               <l>Tranſlated to the very Gods;</l>
+               <l>With ev'ry Pinion not unhing'd,</l>
+               <l>And not one Feather of 'em ſing'd.</l>
+               <l>In ſacred Scripture he had read</l>
+               <l>How <hi>Enoch</hi> and <hi>Elijah</hi> fled</l>
+               <l>To Heav'n by Faith, and in their flying</l>
+               <l>Diſdain'd the Common way of Dying,</l>
+               <l>Which does Mankind in Thraldom fetter,</l>
+               <l>Only becauſe they know no better.</l>
+               <pb n="7" facs="tcp:55037:4"/>
+               <!-- PDF PAGE 25 -->
+               <l>He and his Printer did agree</l>
+               <l>To ſet men from this Bondage free;</l>
+               <l>And now <hi>Sir Knight</hi> has got a <hi>Squire,</hi>
+               </l>
+               <l>As fit as e'er he could deſire:</l>
+               <l>To preach this Doctrine would be vain,</l>
+               <l>Diſturb the Head, and Lungs would ſtrain.</l>
+               <l>Let Parſons preach, and Clerks go whilſtle,</l>
+               <l>They'l do the buſineſs by Epiſtle,</l>
+               <l>Which has of late gain'd Proſelytes</l>
+               <l>Of <hi>Tolandiſts</hi> and <hi>Aſgilites,</hi>
+               </l>
+               <l>Who form new Articles Divine,</l>
+               <l>Exceeding far our Thirty nine.</l>
+            </lg>
+            <lg>
+               <l>In <hi>London</hi> Town there's ſcarcely found</l>
+               <l>One Corner of that fertile Ground,</l>
+               <l>Which does not to the Age afford</l>
+               <l>New Sects all founded on the Word,</l>
+               <l>Who like Logicians do diſpute,</l>
+               <l>And one another ſtill confute;</l>
+               <l>All of 'em Orthodox, and all</l>
+               <l>Alike are Apoſtolical.</l>
+               <l>But tho they make ſuch zealous pother,</l>
+               <l>Some do thrive better than the other;</l>
+               <l>As Plants more generous are found</l>
+               <l>To flouriſh beſt in fatteſt Ground:</l>
+               <l>Some tall ones ſcatter do their Seed,</l>
+               <l>And new ones do as Maggots breed;</l>
+               <l>Whilſt theſe to height are always ſhoving,</l>
+               <l>Some others only are improving.</l>
+               <l>St. <hi>Pauls</hi> ſcarce outdoes <hi>Salters-Hall,</hi>
+               </l>
+               <l>Tho its high Roof be far more tall:</l>
+               <l>Octavo Band, and Cloak Divine,</l>
+               <l>As Folio Caſſock is as fine:</l>
+               <l>The little Roundhead looks as big</l>
+               <l>As Biſhop in his powder'd Wig.</l>
+               <l>And eke a wondrous Reformation</l>
+               <l>Is happened in this godly Nation.</l>
+               <pb n="8" facs="tcp:55037:5"/>
+               <!-- PDF PAGE 26 -->
+               <l>After a many ſtubborn Greetings,</l>
+               <l>The King is pray'd for in the Meetings,</l>
+               <l>That he may live long in the Nation;</l>
+               <l>Of publick Funds a long duration:</l>
+               <l>For theſe no King did e'er adore,</l>
+               <l>But what encreas'd their private Store.</l>
+               <l>Pardon, good Reader, I digreſs,</l>
+               <l>'Tis common in Pindarick Verſe,</l>
+               <l>And eke in this it muſt be too,</l>
+               <l>If I but pleaſe to make it ſo;</l>
+               <l>And I, without a Reaſon for't,</l>
+               <l>Will make em long, or cut 'em ſhort.</l>
+               <l>Poets are Princes in their Station,</l>
+               <l>Although they govern not the Nation;</l>
+               <l>No man their Pow'r did yet diſpute,</l>
+               <l>But always held 'em abſolute.</l>
+            </lg>
+            <lg>
+               <l>Now had <hi>Sir Knight</hi> his Brain imploy'd</l>
+               <l>How he might conquer, and avoid</l>
+               <l>Old Death, that cunning ſubtle Fox,</l>
+               <l>Who lays Mankind in Earthy Stocks:</l>
+               <l>Says he, good <hi>Squire,</hi> 'tis but folly</l>
+               <l>To ſit thus penſive, melancholy;</l>
+               <l>Put but my Notions into print,</l>
+               <l>We'll conquer Death, or Devil's in't.</l>
+               <l>I am Robuſtick, tho I'm Civil,</l>
+               <l>And grown a Match e'en for the Devil.</l>
+               <l>The Crooked Serpent, who by Lying</l>
+               <l>Entices Mankind into Dying,</l>
+               <l>So far does fooliſh Men deceive,</l>
+               <l>They cannot the dull Cuſtom leave.</l>
+               <l>Had they but Faith, they need not die,</l>
+               <l>Like <hi>Enoch</hi> might <hi>ad Aſtra</hi> fly,</l>
+               <l>And view the Regions of the Sky.</l>
+            </lg>
+            <lg>
+               <l>But here the <hi>Squire</hi> to <hi>Knight</hi> reply'd,</l>
+               <l>You have not yet your Notion try'd:</l>
+               <pb n="9" facs="tcp:55037:5"/>
+               <!-- PDF PAGE 26 -->
+               <l>Your mighty Faith your Senſe enthrals,</l>
+               <l>'Tis Philoſophically falſe;</l>
+               <l>For what is born muſt ſurely die,</l>
+               <l>Or elſe Philoſophers do lie:</l>
+               <l>All that is nouriſh'd is unſtable,</l>
+               <l>And is <hi>revera</hi> corruptible;</l>
+               <l>And Death, deciding of the ſtrife,</l>
+               <l>Is but Corruption of our Life.</l>
+               <l>You muſt not Notions, Sir, eſpouſe</l>
+               <l>That do the Bonds of Nature looſe,</l>
+               <l>And with ſuch vehemence diſpute 'em,</l>
+               <l>When e'ery Church-yard does confute 'em.</l>
+               <l>Beſides, Sir, where is your Protection</l>
+               <l>Againſt received Reſurrection?</l>
+               <l>For it appears to all the Wiſe,</l>
+               <l>If we don't die we ſhall not riſe.</l>
+               <l>You may for this be brought in Court,</l>
+               <l>And there be made to anſwer for't;</l>
+               <l>They'l uſe you there like any Dog,</l>
+               <l>When you're once ſeiz'd by <hi>Robbin Hog:</hi>
+               </l>
+               <l>For, Sir, the Liberty to ſcrible</l>
+               <l>Allows you not at Church to nibble;</l>
+               <l>And there I'll leave you in the lurch,</l>
+               <l>When you plant Cannons 'gainſt the Church.</l>
+               <l>Such things as theſe would whilome tear yo,</l>
+               <l>In the late Reign of Great <hi>Rogero:</hi>
+               </l>
+               <l>Not that <hi>Rogero</hi> of great Note,</l>
+               <l>Of whom <hi>Orlando</hi> juſtly wrote,</l>
+               <l>Who with <hi>Alcyna</hi> did diſcourſe</l>
+               <l>By Aſſignations of Amours;</l>
+               <l>But that <hi>Rogero</hi> which did fill</l>
+               <l>The World with Obſervators ill;</l>
+               <l>Who ſuch ill Tenents to redreſs,</l>
+               <l>Was made Oppreſſor of the Preſs;</l>
+               <l>VVho tho he's outed of his Reign,</l>
+               <l>His Squire's Pow'r does ſtill remain.</l>
+            </lg>
+            <pb n="10" facs="tcp:55037:6"/>
+            <!-- PDF PAGE 27 -->
+            <lg>
+               <l>To this reply'd the Doughty <hi>knight,</hi>
+               </l>
+               <l>Thou ſhalt not me with Fancies fright.</l>
+               <l>Nought that's heroick, or that's rare-a,</l>
+               <l>But was atchiev'd by Great <hi>Don Zara,</hi>
+               </l>
+               <l>VVhoſe Actions gave his Name a Hogo,</l>
+               <l>He got the Title of <hi>Del Fogo;</hi>
+               </l>
+               <l>And tho he was a man of Valour,</l>
+               <l>He oft was ſqueez'd by Fortunes Squallor;</l>
+               <l>And <hi>Sancho</hi> too (his Fates be thanked)</l>
+               <l>VVas ſadly toſſed in a Blanket:</l>
+               <l>Yet theſe did ne'er repine at Fate,</l>
+               <l>To keep off Blow would ſcarce guard Pate.</l>
+               <l>I will encounter <hi>Jews</hi> and <hi>Turks,</hi>
+               </l>
+               <l>Defy the Devil and his VVorks,</l>
+               <l>Both thy <hi>Rogero,</hi> and his Squire,</l>
+               <l>And their Eccleſiaſtick Fire.</l>
+               <l>
+                  <hi>Roger</hi> belong'd unto that Prieſthood</l>
+               <l>VVhich never yet did do the leaſt good:</l>
+               <l>He was a Light to the Dark-Lanthorns,</l>
+               <l>VVhich neither Sockets have, nor han't Horns.</l>
+               <l>If theſe my Notions do moleſt,</l>
+               <l>It's Perſecution, Sir, at beſt;</l>
+               <l>Of modern date a Law too ſaith,</l>
+               <l>No man ſhall ſuffer for his Faith.</l>
+            </lg>
+            <lg>
+               <l>Here did the <hi>Squire</hi> long ſtand amaz'd,</l>
+               <l>And after on the <hi>Knight</hi> had gaz'd;</l>
+               <l>Quoth he, it is not Perſecution,</l>
+               <l>VVhen againſt you in execution:</l>
+               <l>Our Laws do only favour weak</l>
+               <l>And Infant Chriſtians, who can't take</l>
+               <l>The ſtronger Meats; but you are ſtrong,</l>
+               <l>Almoſt Omnipotent in wrong.</l>
+               <l>Your ſelf-applauding Vanity</l>
+               <l>Is meer downright Profanity:</l>
+               <l>You know a wondrous deal of Faith,</l>
+               <l>But not one word the Scripture ſaith.</l>
+               <pb n="11" facs="tcp:55037:6"/>
+               <!-- PDF PAGE 27 -->
+               <l>'Tis true, good <hi>Enoch</hi> and <hi>Eliah</hi>
+               </l>
+               <l>Alive to Saints above did fly-a;</l>
+               <l>And this was done by Faith and Prayer,</l>
+               <l>But neither of 'em was a Lawyer;</l>
+               <l>They of Canary took no Doſe,</l>
+               <l>Nor tippl'd Claret at the <hi>Roſe:</hi>
+               </l>
+               <l>They in their Lives were exemplary,</l>
+               <l>Seldom or never did miſcarry.</l>
+               <l>VVe can't in you like Faith believe,</l>
+               <l>Unleſs you like Example give.</l>
+            </lg>
+            <lg>
+               <l>Quoth <hi>Knight,</hi> my Friend, thour't very dull,</l>
+               <l>Good God! Full fill thy empty Scull.</l>
+               <l>Thoſe Tenents which from Faith ariſe,</l>
+               <l>To Mortal Men are Myſteries:</l>
+               <l>It is not likely they ſhould know</l>
+               <l>The way tranſlated Men do go;</l>
+               <l>They cannot ſee the upper Skies,</l>
+               <l>Becauſe they look with dying Eyes;</l>
+               <l>They can no more ſuch Truth unriddle</l>
+               <l>Than Story of the Bear and Fiddle,</l>
+               <l>VVas ſung, but broke off in the middle.</l>
+               <l>As for my way of living, wou'd</l>
+               <l>It were as pious <hi>Enoch</hi>'s good.</l>
+               <l>But here, my Friend, you do me banter;</l>
+               <l>For you do know I am no Ranter:</l>
+               <l>Altho for Grace I don't much ſtickle,</l>
+               <l>And ſigh and groan at Conventicle;</l>
+               <l>VVith little Band am ſeldom found,</l>
+               <l>Or Locks are circumciſed round;</l>
+               <l>Yet tho I do not cant and pray,</l>
+               <l>I am not half ſo lewd as they:</l>
+               <l>And Godly Looks do ne'er impart</l>
+               <l>The ſecret Treaſure of the Heart,</l>
+               <l>Which, if it does once entertain</l>
+               <l>Vile Thoughts, Religion is but vain.</l>
+               <pb n="12" facs="tcp:55037:7"/>
+               <!-- PDF PAGE 28 -->
+               <l>I in a Band could look as grave</l>
+               <l>As any Conventicle Knave,</l>
+               <l>Cou'd wring my Chaps into Grimaces,</l>
+               <l>And make a hundred Godly Faces,</l>
+               <l>Cou'd ſit as dull as any Log,</l>
+               <l>And grunt and groan like any Hog;</l>
+               <l>But theſe are odd ſorts of Religions,</l>
+               <l>Contriv'd by Knaves for fooliſh Wigeons;</l>
+               <l>May be for them a Godly Faſhion,</l>
+               <l>But are not fitted for Tranſlation.</l>
+               <l>All my Diſciples muſt be airy,</l>
+               <l>And dance as nimble as a Fairy,</l>
+               <l>Muſt never think of ſordid Dying,</l>
+               <l>But practiſe muſt the Art of Flying.</l>
+            </lg>
+            <trailer>The End of the firſt <hi>Canto.</hi>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
